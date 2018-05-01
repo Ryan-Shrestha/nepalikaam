@@ -1,0 +1,232 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Install Package Control"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"var myInt = 5; myInt;",
+			"var myInt = 5;",
+			"run script.js",
+			"scrit.js",
+			"var day = today.getDay();",
+			"date();",
+			"script.js",
+			"randomNumber();",
+			"scripts.js",
+			"intex.html"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/RyanShrestha/Desktop/Web project/Nepali Kaam/nk-logo.png",
+		"/Users/RyanShrestha/Desktop/Web project/Nepali Kaam/register.html",
+		"/Users/RyanShrestha/Desktop/Web project/Nepali Kaam/thank_you.html",
+		"/Users/RyanShrestha/Desktop/Web project/Nepali Kaam/index.html",
+		"/Users/RyanShrestha/Desktop/Web project/Nepali Kaam/style.css",
+		"/Users/RyanShrestha/Desktop/Web project/Nepali Kaam/script.js",
+		"/Users/RyanShrestha/Desktop/Test/Basement/Thai-Basement/Thai-Basement/index.html",
+		"/Users/RyanShrestha/Desktop/Web project/Test/index.html",
+		"/Users/RyanShrestha/Desktop/Test/Basement/Thai-Basement/Thai-Basement/style.css",
+		"/Users/RyanShrestha/Desktop/Thai Basement/Website/index.html",
+		"/Users/RyanShrestha/Downloads/oxygen/css/style.css",
+		"/Users/RyanShrestha/Desktop/Test/Ryan Shrestha/index.html",
+		"/Users/RyanShrestha/Desktop/Test/Ryan Shrestha/style.css",
+		"/Users/RyanShrestha/Desktop/Test/Basement/Thai-Basement/README.md",
+		"/Users/RyanShrestha/Desktop/Web project/Guessing Number/script.js",
+		"/Users/RyanShrestha/Desktop/Web project/Guessing Number/style.css",
+		"/Users/RyanShrestha/Desktop/Test/Thai-Basement/index.html",
+		"/Users/RyanShrestha/Desktop/Test/Thai-Basement/README.md",
+		"/Users/RyanShrestha/Desktop/Test/Thai-Basement/style.css",
+		"/Users/RyanShrestha/Desktop/Test/index.html",
+		"/Users/RyanShrestha/Desktop/Test/style.css",
+		"/Users/RyanShrestha/Downloads/Test/style.css",
+		"/Users/RyanShrestha/Desktop/Web project/Student Report/script.js",
+		"/Users/RyanShrestha/Downloads/Test/index.html",
+		"/Users/RyanShrestha/Desktop/Web project/index.html",
+		"/Users/RyanShrestha/Desktop/Untitled-1.svg",
+		"/Users/RyanShrestha/Desktop/Web project/Ryan Shrestha/public_html/index.html",
+		"/Users/RyanShrestha/Desktop/Web project/Ryan Shrestha/public_html/sitemap.xml",
+		"/Volumes/AdobeIllustratorCS6/payloads/Setup.xml",
+		"/Users/RyanShrestha/Desktop/Web project/Boot Strap/bootstrap.min.css",
+		"/Users/RyanShrestha/Desktop/Web project/Boot Strap/index.html",
+		"/Users/RyanShrestha/Desktop/Web project/Ryan Shrestha/style.css",
+		"/Users/RyanShrestha/Desktop/Web project/Ryan Shrestha/index.html",
+		"/Users/RyanShrestha/Desktop/Web project/Testing/script.js",
+		"/Users/RyanShrestha/Desktop/Web project/Testing/index.html",
+		"/Users/RyanShrestha/Desktop/Web project/Guessing Number/index.html",
+		"/Users/RyanShrestha/Desktop/Web project/Quiz/index.html",
+		"/Users/RyanShrestha/Desktop/Web project/Quiz/script.js",
+		"/Users/RyanShrestha/Desktop/Web project/Test/style.css",
+		"/Users/RyanShrestha/Desktop/Web project/Test/script.js",
+		"/Users/RyanShrestha/Desktop/Web project/Javascript/index.html",
+		"/Users/RyanShrestha/Desktop/Web project/Javascript/script.js",
+		"/Users/RyanShrestha/Desktop/Web project/Javascript/style.css",
+		"/Users/RyanShrestha/Desktop/Web project/scripts.js",
+		"/Users/RyanShrestha/Desktop/Web project/style.css",
+		"/Users/RyanShrestha/Downloads/react-15.0.1/README.md"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 176.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

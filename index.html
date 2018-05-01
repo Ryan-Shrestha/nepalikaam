@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NK Service</title>
+    <meta name="description" content="NK Service has been providing reliable services since more then five years. We value our customer, joining us forms a part of commitment to support the significiant and
+          growing remittance flows form Australia to Nepal. With the potential to connect to NK Service thousands of our members are happy with our Services.">
+    <meta name="keywords" content="nepal remit, remit, money transfer, auatralia to nepal, easy money, money" >
+    <!-- Social Network Sharing -->
+    <meta property="og:url" content="http://www.nepalikaam.com" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Do you want to send money overseas the easiest way possible?" />
+    <meta property="og:description" content="We value our customer, joining us forms a part of commitment to support the significiant and
+          growing remittance flows form Australia to Nepal." />
+    <meta property="og:image" content="http://www.nepalikaam.com/image/cover_desktop.jpg" />
+    <!-- Check W3school font awesome Reference -->
+    <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css"> 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,800" rel="stylesheet">
+   	<link rel="stylesheet" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="script.js"></script>
+  </head>
+  <body>
+    
+  <!-- Site Header-->
+  <header>
+    <div class="row">
+      <div class="brand-name col-lg-6">
+        <img src="image/nepalilogo.png" width="150px" height="90px" alt="Company Logo" class="company-logo">
+        <h1>NK Service</h1>
+        <p>Secure and Reliable</p>
+        <!-- Mobile Nav Toggle bar-->
+        <div class="toggle-icon">
+          <div class="icon-bar"></div>
+          <div class="icon-bar"></div>
+          <div class="icon-bar"></div>
+        </div>
+      </div>
+      <nav class="col-lg-6">
+        <ul class="navigation">
+          <li><a href="#">Home</a></li>
+          <li><a href="index.html#about-us">About</a></li>
+          <li><a href="index.html#services">Service</a></li>
+          <li><a href="index.html#contact">Contact</a></li>
+          <li><a href="register.html">Registration</a></li>
+          <li><a href="faq.html">FAQ</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <!-- Main Section -->
+  <section>
+    <div class="cover-image">
+      <div class="cover-info">
+        <p>THE CONVIENIENT<br> WAY TO SEND MONEY TO </p>
+        <h1 class="cover-info-nepal">NEPAL</h1>
+        <p class="best-rate">Click here for Today's Rate</p>
+        <p class="best-rate rate">81.5<br>(01/12/2017)</p>
+      </div>
+      <div id="about-us"></div>
+      
+    </div>
+    <div class="row">
+      <article class="about-us col-lg-6" >
+        <h2>ABOUT<br>US</h2>
+        <p>NK Service has been providing reliable services since more than five years. We value our customer, joining us forms a part of commitment to support the significiant and
+          growing remittance flows from Australia to Nepal. With the potential to connect to NK Service thousands of our members are happy with our Services.
+        </p>
+        <div id="services"></div>
+      </article>
+      <article class="services col-lg-6">
+        <h2>HOW CAN WE<br>HELP YOU</h2>
+        <ul>
+          <li>Money Transfer</li>
+          <li>Air Ticketing</li>
+          <li>Education Consulting</li>
+          <li>Tax Return</li>
+        </ul>
+      </article>
+    </div>
+  </section>
+  <footer id="contact">
+    <div class="row">
+      <div class="col-lg-4">
+        <h2>CONTACT</h2> 
+        <p >Mobile: <a href="tel:0424966039">04 2496 6039</a> <br> <a href="tel:0415264800">04 1526 4800</a></p>
+        <p>Viber: 04 2496 6039 </p>
+        <p><a href="mailto:info@nepalikaam.com">info@nepalikaam.com</a></p>
+      </div>
+      <div class="col-lg-4">
+        <h2 class="footer-menu" style=" margin-bottom: 15px; ">MENU</h2>
+        <ul class="navigation">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="index.html#about-us">About</a></li>
+          <li><a href="index.html#services">Service</a></li>
+          <li><a href="index.html#contact">Contact</a></li>
+          <li><a href="register.html">Registration</a></li>
+        </ul>
+      </div>
+      <div class="social-media-icon col-lg-4">
+        <h2 style="margin-bottom: 15px;">Follow us on:</h2>
+        <ul>
+          <li><a  class="fa fa-facebook-square" href="https://www.facebook.com/nkremit"></a></li>
+          <li><a  class="fa fa-instagram" href="#"></a></li>
+          <li><a  class="fa fa-youtube" href="#"></a></li>
+          <li><a  class="fa fa-google" href="#"></a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="clearfix"></div>
+    <p class="copyright">&copy; 2017 by Nepali Kaam.<br>Proudly Created By <a href="https://www.facebook.com/vntona">Ryan Shrestha Design</a></p>
+  </footer>
+  <script>
+    var todayRate = document.querySelector(".best-rate");
+    var rate = document.querySelector(".rate");
+    todayRate.addEventListener("click", reveal);
+
+    function reveal() {
+      var pass = prompt("Please type your Password here.");
+      if(pass.toUpperCase() == "NK") {
+        rate.style.display = "block";
+      }
+      else {
+        prompt("Please type the correct Password");
+        }
+    }
+
+  </script>
+  </body>
+</html>
